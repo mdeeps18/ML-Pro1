@@ -1,2 +1,4 @@
 # Add README.md
 1. git init
+2. create .gitignore
+3. create LICENCE
