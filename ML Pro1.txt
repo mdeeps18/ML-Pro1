@@ -2,3 +2,7 @@
 1. git init
 2. create .gitignore
 3. create LICENCE
+3. bash init_setup.py
+4 . source activate .env
+5. pip list
+6 pip setup.py install
